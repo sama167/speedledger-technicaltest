@@ -1,0 +1,5 @@
+
+{squid:UselessImportCheck"MRemove this unused import 'com.speedledger.bank.account.objectmodel.Account'.(¹è¢Äùÿÿÿÿ8¼”¢áû,
+Ssquid:S1068"2Remove this unused "accountService" private field.(çó³ƒüÿÿÿÿ8¼”¢áû,
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¼”¢áû,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(Ì›Áûÿÿÿÿ8¼”¢áû,
